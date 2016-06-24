@@ -1,0 +1,1 @@
+# markerwithlabel-v3-bower
